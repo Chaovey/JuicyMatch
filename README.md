@@ -33,5 +33,3 @@ https://user-images.githubusercontent.com/93536412/191766820-ff952d4f-2320-4ac4-
 [Free Music](https://soundcloud.com/fm_freemusic),
 [mixkit]( https://mixkit.co/free-sound-effects)
 
-## :balance_scale: License:
-Juicy Match is licensed under the [MIT license](https://github.com/nativegamestudio/juicy-match/blob/master/LICENSE)
